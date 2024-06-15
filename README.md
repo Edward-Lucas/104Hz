@@ -1,5 +1,6 @@
 # 104Hz
 Set Your Voice
+
 ![image](https://github.com/Edward-Lucas/104Hz/blob/main/img/original/Cloudbackground.png?raw=true)
 
 104Hz는 기본적인 마이크와 환경의 세팅을 안내합니다. 쉬운 정보로 최대한 많은 사람의 음성채팅 품질 향상을 돕는 것을 목표로 합니다.
