@@ -10,7 +10,7 @@ Gitbook 104Hz에서 사이트를 확인하거나, Github에서 현황을 실시�
 
 104Hz는 다음 스폰서에 의하여 존재합니다.
 
-| [<img src="https://raw.githubusercontent.com/Edward-Lucas/104Hz/main/img/sponsor/2022-MiFun-Logo.ico" width="40">] |
+| <img src="https://raw.githubusercontent.com/Edward-Lucas/104Hz/main/img/sponsor/2022-MiFun-Logo.ico" width="40"> |
 | - |
 | [MiFun](Null) |
 
