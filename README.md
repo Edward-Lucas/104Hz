@@ -50,7 +50,7 @@ Gitbook 104Hz에서 사이트를 확인하거나, Github에서 현황을 실시�
 - 모든 페이지는 1개 이상의 그룹에 소속되어야 합니다.
 
 
-[GitbookBadge]: https://img.shields.io/badge/Gitbook-104Hz-blue
+[GitbookBadge]: https://img.shields.io/badge/Gitbook-104Hz-blue?logo=gitbook
 [GitbookUrl]: https://cloud-4.gitbook.io/104hz
-[GithubBadge]: https://img.shields.io/badge/Github-104Hz-Green
+[GithubBadge]: https://img.shields.io/badge/Github-104Hz-Green?logo=github
 [GithubUrl]: https://github.com/Edward-Lucas/104Hz
