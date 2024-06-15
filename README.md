@@ -6,8 +6,8 @@ Set Your Voice
 
 Gitbook 104Hz에서 사이트를 확인하거나, Github에서 현황을 실시간으로 확인할 수 있습니다.
 
-[![Gitbook][GitbookBadge][GitbookUrl]]
-[![Github][GithubBadge][GithubUrl]]
+[![Gitbook][GitbookBadge]][GitbookUrl]
+[![Github][GithubBadge]][GithubUrl]
 
 104Hz는 다음 스폰서에 의하여 존재합니다.
 
